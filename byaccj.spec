@@ -1,6 +1,6 @@
 Name     : byaccj
 Version  : 1.15_src
-Release  : 2
+Release  : 3
 URL      : http://sourceforge.net/projects/byaccj/files/byaccj/1.15/byaccj1.15_src.tar.gz
 Source0  : http://sourceforge.net/projects/byaccj/files/byaccj/1.15/byaccj1.15_src.tar.gz
 Summary  : No detailed summary available
